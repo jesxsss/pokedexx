@@ -4,7 +4,7 @@ Este repositorio contiene la aplicación **PokeDex** (Angular 14) desplegada en 
 Este README explica, paso a paso, cómo se creó la cuenta en la nube pública y su configuración inicial. El proceso de despliegue está en [Despliegue.md](Despliegue.md).
 
 - **URL pública:** https://black-dune-06431e410.6.azurestaticapps.net
-- **Repositorio:** `https://github.com/<TU-USUARIO>/pokedex`
+- **Repositorio:** https://github.com/jesxsss/pokedexx.git
 
 ---
 
