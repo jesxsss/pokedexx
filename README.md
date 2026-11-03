@@ -18,8 +18,6 @@ Este README explica, paso a paso, cómo se creó la cuenta en la nube pública y
 6. Al terminar entrarás al portal: <https://portal.azure.com>. Verifica que existe la suscripción **Azure for Students**:
    *Portal → Suscripciones*.
 
-> 📸 Agrega aquí capturas de pantalla de cada paso (carpeta `img/`).
-
 ## 2. Configuración inicial en el portal
 
 1. **Suscripciones:** confirma que la suscripción `Azure for Students` está en estado *Activa* y revisa el saldo de créditos en *Cost Management + Billing*.
@@ -55,9 +53,8 @@ Continúa con [Despliegue.md](Despliegue.md) para subir el código y publicar la
 ## 6. Seguridad (resumen)
 
 - Encabezados HTTP configurados en `src/staticwebapp.config.json` (CSP, HSTS, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy, COOP, CORP).
-- Resultado en <https://securityheaders.com/>: **_(pegar calificación y captura)_**
-- Auditorías opcionales: SSL Labs / OWASP ZAP **_(pegar resultados si se realizan)_**
-
+- Resultado en <https://securityheaders.com/>: 
+- Auditorías opcionales: SSL Labs / OWASP ZAP 
 ## Créditos
 
 Código fuente original: [keilermora/pokedex-angular](https://github.com/keilermora/pokedex-angular).
